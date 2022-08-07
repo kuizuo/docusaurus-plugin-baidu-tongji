@@ -1,0 +1,33 @@
+{
+  "name": "docusaurus-plugin-baidu-tongji",
+  "version": "0.0.1",
+  "description": "baidu tongji plugin for Docusaurus.",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuizuo/docusaurus-plugin-baidu-tongji.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@docusaurus/core": "^2.0.0-alpha.56"
+  },
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kuizuo/docusaurus-plugin-baidu-tongji/issues"
+  },
+  "homepage": "https://github.com/kuizuo/docusaurus-plugin-baidu-tongji#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matomo",
+    "docusaurus",
+    "docusaurus-plugin"
+  ],
+  "author": "Dmitrii Poddubnyi <dpoddubny@gmail.com>"
+}
